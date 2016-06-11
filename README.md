@@ -4,8 +4,8 @@ Maps of the consolidated precincts used in Los Angeles County's 2016 primary ele
 
 ### Source
 
-Provided by officials at [Los Angeles County Registrar-Record/County Clerk](http://lavote.net) in
-response to a public records request by the Los Angeles Times.
+ESRI shapefile provided by officials at [Los Angeles County Registrar-Record/County Clerk](http://lavote.net) in
+response to a public records request by the Los Angeles Times. Converted into GeoJSON via [ogr2ogr](https://gist.github.com/benbalter/5858851).
 
 ### In action
 
