@@ -10,3 +10,4 @@ response to a public records request by the Los Angeles Times. Converted into Ge
 ### In action
 
 * [Clinton or Sanders: Who did your L.A. Neighborhood choose?](http://www.latimes.com/projects/la-pol-ca-primary-2016-la-precincts/)
+* [L.A. County supervisor races yield surprises and uncertainty](http://www.latimes.com/local/lanow/la-me-ln-county-supervisors-20160608-snap-story.html)
